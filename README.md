@@ -1,9 +1,9 @@
 ## Hi there 👋
+![Flip Dot Display](https://flipdots.vercel.app/api/svg?text=Ji+Young&style=retro&dotSize=15&spacing=2&animationMode=sequential&dotOn=85005b&dotOff=ffffff&background=ffffff)
+
 
 <!--
 **jiyoungz/jiyoungz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Flip Dot Display](https://flipdots.vercel.app/api/svg?text=Ji+Young&style=retro&dotSize=20&spacing=2&animationMode=sequential&dotOn=85005b&dotOff=ffffff&background=ffffff)
 
 
 Here are some ideas to get you started:
